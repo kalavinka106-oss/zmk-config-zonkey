@@ -243,7 +243,7 @@
 
             bindings = <
 &kp N1          &mo2          &kp N3        &kp N4            &kp N5                                     &mo6                  &kp PAGE_UP            &kp UP_ARROW    &kp HOME        &mo0
-&kp D           &trans        &trans        &trans            &trans       &trans                &trans  &kp PAGE_DOWN         &kp LEFT               &kp DOWN_ARROW  &kp END         &trans
+&kp D           &trans        &trans        &trans            &trans       &trans                &trans  &kp PAGE_DOWN         &kp LEFT               &kp DOWN_ARROW  &kp RIGHT       &kp END
 &kp LEFT_SHIFT  &trans        &trans        &trans            &trans       &trans                &trans  &trans                &trans                 &kp LEFT_ARROW  &kp DOWN_ARROW  &kp K_REDO
 &kp LCTRL       &kp LEFT_WIN  &kp LEFT_ALT  &lt 3 INT_HENKAN  &lt 2 SPACE  &lt 1 INT_MUHENKAN            &kp RG(LEFT_BRACKET)  &kp RG(RIGHT_BRACKET)                                              &kp K_UNDO
             >;
